@@ -1,3 +1,8 @@
+<?php 
+    include_once 'includes/connectdb.php';
+?>
+
+
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -9,18 +14,14 @@
         <header>
             <nav id="main-navigation">
                 <ul>
-                    <li><a href="index.php">Home</a></li>
-                    <li><a href="page2.php">Page 2</a></li>
-                    <li><a href="page3.php">Page 3</a></li>
+                    <li><a href="index.php">Vendors List</a></li>
+                    <li><a href="repositorydisplay.php">Registory</a></li>
+                    <li><a href="printbill.php">Print bill</a></li>
+                    <li><a href="addproduct.php">Add new product</a></li>
+                    <li><a href="includes/connectdb.php">db</a></li>
                 </ul>
             </nav>
         </header>
-        <div id="main-contents">
-            This is page 1, the home page.
-        </div>
-        <footer>
-            Contact us at webmaster@mywebsite.com
-        </footer>
     </body>
 </html>
  
