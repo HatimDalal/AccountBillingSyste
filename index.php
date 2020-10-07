@@ -22,6 +22,7 @@
                     <li><a href="login.php">Login</a></li>
                     <li><a href="product/displayproducts.php">prods</a></li>
                     <li><a href="vendor/displayvendors.php">vendor</a></li>
+                    
 
 
                 </ul>
