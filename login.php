@@ -38,7 +38,7 @@ if(isset($_POST['username'])){
 <!DOCTYPE html>
 <html>
 <head>
-	<title> Login Form in HTML5 and CSS3</title>
+	<title> Login </title>
 	<!--link rel="stylesheet" a href="css\style.css">
 	<link rel="stylesheet" a href="css\font-awesome.min.css"-->
 </head>
