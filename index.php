@@ -22,7 +22,9 @@
                     <li><a href="login.php">Login</a></li>
                     <li><a href="product/displayproducts.php">prods</a></li>
                     <li><a href="vendor/displayvendors.php">vendor</a></li>
-                    
+                    <li><a href="vendor/updatevendor.php">updatevendor</a></li>
+                    <li><a href="product/updateprods.php">updateprod</a></li>
+
 
 
                 </ul>
