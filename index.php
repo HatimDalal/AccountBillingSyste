@@ -24,7 +24,7 @@
                     <li><a href="vendor/displayvendors.php">vendor</a></li>
                     <li><a href="vendor/updatevendor.php">updatevendor</a></li>
                     <li><a href="product/updateprods.php">updateprod</a></li>
-                    <li><a href="vendor/deletevenor.php">DeleteVendor</a></li>
+                    <li><a href="vendor/deletevendor.php">DeleteVendor</a></li>
                     <li><a href="product/deleteprod.php">Deleteprod</a></li>
 
 

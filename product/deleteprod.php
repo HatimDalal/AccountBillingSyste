@@ -25,7 +25,7 @@
         echo "<td>".$row['Pname']."</td>";
         echo "<td>".$row['Pqnty']."</td>";
         echo "<td>".$row['Pprice']."</td>";
-        echo "<td><a href=deleteprod1.php?id=".$row['Pid'].">Delete</a></td>";
+        echo "<td><a href=deleteprod1.php?Pid=".$row['Pid'].">Delete</a></td>";
 
 
         /*echo "<tr><form action=# method=POST>";

@@ -17,6 +17,7 @@
         $execval = $stmt->execute();
         //echo $execval;
         echo "Registration successfully...";
+        header("refresh:1; url=displayproducts.php");
         $stmt->close();
         $conn->close();
   }
