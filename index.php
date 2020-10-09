@@ -28,6 +28,7 @@
                     <li><a href="product/deleteprod.php">Deleteprod</a></li>
                     <li><a href="bill/pasttrans.php">Past Transactions</a></li>
                     <li><a href="bill/generatebill.php">New Bill</a></li>
+                    <li><a href="users/newclerk.php">New Clerk</a></li>
 
 
 
